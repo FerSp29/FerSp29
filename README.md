@@ -20,4 +20,5 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=FerSp29&icon=0&color=0)
+![](https://komarev.com/ghpvc/?username=FerSp29&color=00FF7F)
+
