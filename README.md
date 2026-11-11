@@ -43,18 +43,12 @@
 
 ## ⚡ Acerca de mí
 
-<pre lang="csharp"><code>public sealed class DeveloperProfile
-{
-    public string Name     => "Fernando Santos (Fercho.dev)";
-    public string Role     => "Junior Software Developer (.NET / Backend & Full-Stack)";
-    public string Location => "Barranquilla, Colombia 🇨🇴";
-    public string[] Focus  => ["Clean Architecture", "Scalable REST APIs", "Performance", "SOLID & Clean Code"];
-}</code></pre>
+> Desarrollador de software enfocado en la construcción de soluciones backend sólidas y arquitecturas limpias, creando aplicaciones escalables y mantenibles de extremo a extremo.
 
-- 🏗️ **Enfoque arquitectónico:** Diseño y construcción de sistemas desacoplados, mantenibles y testeables aplicando **Clean Architecture**, principios **SOLID** y patrones de diseño modernos.
-- 🚀 **Especialización Backend:** Desarrollo de **APIs RESTful escalables** y seguras con el ecosistema **.NET**, optimizando persistencia de datos y manejo robusto de autenticación con **JWT & Identity**.
-- 🌐 **Visión Full-Stack:** Integración fluida con interfaces reactivas y tipadas en **React + TypeScript**, cuidando tanto la experiencia de usuario como el rendimiento del servidor.
-- 📈 **Mentalidad de ingeniería:** Comprometido con las buenas prácticas de código, contenedores con **Docker**, control de versiones estructurado y aprendizaje continuo en entornos **Linux**.
+- 🏗️ **Arquitectura & Principios:** Especial interés en **Clean Architecture**, principios **SOLID** y diseño de software estructurado y desacoplado.
+- 🚀 **Especialización Backend:** Construcción de **APIs RESTful** robustas y de alto rendimiento utilizando el ecosistema **.NET** (`C#`, `ASP.NET Core`).
+- 🌐 **Perfil Full-Stack:** Desarrollo de interfaces modernas, reactivas y fuertemente tipadas combinando **React** y **TypeScript**.
+- 🛠️ **DevOps & Entorno:** Flujos de trabajo eficientes con **Docker**, contenedores, control de versiones en **Git/GitHub** y desarrollo sobre **Linux (Ubuntu)**.
 
 ---
 
