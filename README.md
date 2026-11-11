@@ -1,18 +1,25 @@
 <div align="center">
 
-<!-- BANNER OFICIAL DE MARCA PERSONAL -->
-<img src="./banner.jpg" width="100%" alt="Fernando Santos | Fercho.dev" style="border-radius: 12px;" />
+<!-- BANNER OFICIAL DE LINKEDIN -->
+<img src="./banner.jpg" width="100%" alt="Fernando Santos | Fercho.dev" style="border-radius: 10px;" />
 
 <br/><br/>
 
-<!-- ANIMACIÓN TYPING -->
+<!-- NOMBRE EN LETRAS BLANCAS ESCRIBIÉNDOSE (TYPING SVG) -->
 <a href="https://github.com/FerSp29">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=A29BFE&center=true&vCenter=true&width=600&height=45&lines=%E2%9A%A1+Backend+.NET+Developer;%F0%9F%8F%97%EF%B8%8F+Clean+Architecture+Enthusiast;%F0%9F%9A%80+Transformando+ideas+en+c%C3%B3digo+eficiente" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Fernando+Santos+%E2%80%94+Fercho.dev" alt="Fernando Santos — Fercho.dev" />
 </a>
 
 <br/>
 
-<!-- BADGES PRINCIPALES Y CONTACTO -->
+<!-- FRASES TÉCNICAS EN MORADO ESCRIBIÉNDOSE -->
+<a href="https://github.com/FerSp29">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=A29BFE&center=true&vCenter=true&width=600&lines=Backend+.NET+Developer;Clean+Architecture+Enthusiast;Building+scalable+solutions" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- BADGES DE CV Y CONTACTO -->
 <p align="center">
   <a href="https://us.wps.com/cms/docs/d/cbNaqdymwnhu0MBc?lg=en-US&sa=601.1074&ps=0&fn=Fernando%20Alonso%20Santos%20%20Puentes%20CV.pdf&refer=whatsapp" target="_blank">
     <img src="https://img.shields.io/badge/Ver_CV_(PDF)-6C5CE7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV" />
