@@ -1,29 +1,24 @@
 <div align="center">
 
-<!-- HEADER BANNER ROBUSTO -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 190" width="100%" height="190">
-  <defs>
-    <linearGradient id="cyberGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0f0c29" />
-      <stop offset="50%" stop-color="#302b63" />
-      <stop offset="100%" stop-color="#6c5ce7" />
-    </linearGradient>
-  </defs>
-  <rect width="900" height="190" rx="16" fill="url(#cyberGrad)" />
-  <path d="M0,140 Q225,180 450,140 T900,140 L900,190 L0,190 Z" fill="#6c5ce7" opacity="0.25" />
-  <text x="50%" y="42%" text-anchor="middle" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="800" font-size="34" letter-spacing="1.5">Fernando Santos | Fercho.dev</text>
-  <text x="50%" y="64%" text-anchor="middle" fill="#A29BFE" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="500" font-size="17" letter-spacing="0.8">Junior Software Developer • .NET Backend &amp; Full-Stack</text>
-  <text x="50%" y="82%" text-anchor="middle" fill="#81ecec" font-family="monospace" font-size="13">Clean Architecture • Scalable APIs • High Performance</text>
-</svg>
-
-<br/>
-
+<!-- BANNER PRINCIPAL CON SEPARADORES -->
 <a href="https://github.com/FerSp29">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A29BFE&center=true&vCenter=true&width=600&lines=Backend+.NET+Developer;Clean+Architecture+Enthusiast;Building+scalable+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=100&lines=Fernando+Santos+%E2%80%94+Fercho.dev" alt="Fernando Santos" />
+</a>
+
+<p align="center">
+  <b>Junior Software Developer</b> &nbsp;|&nbsp; <b>.NET Backend</b> &nbsp;|&nbsp; <b>Full-Stack</b>
+  <br/>
+  <sub>Clean Architecture • Scalable REST APIs • High Performance</sub>
+</p>
+
+<!-- ANIMACIÓN TYPING -->
+<a href="https://github.com/FerSp29">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=A29BFE&center=true&vCenter=true&width=600&height=50&lines=%E2%9A%A1+Backend+.NET+Developer;%F0%9F%8F%97%EF%B8%8F+Clean+Architecture+Enthusiast;%F0%9F%9A%80+Building+scalable+solutions" alt="Typing SVG" />
 </a>
 
 <br/>
 
+<!-- BADGES DE CONTACTO -->
 <p align="center">
   <a href="https://linkedin.com/in/fsantosp29" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -168,17 +163,5 @@
     <img src="https://img.shields.io/badge/Enviar_Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
-<!-- FOOTER ROBUSTO -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 60" width="100%" height="60">
-  <defs>
-    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#6c5ce7" />
-      <stop offset="50%" stop-color="#302b63" />
-      <stop offset="100%" stop-color="#0f0c29" />
-    </linearGradient>
-  </defs>
-  <path d="M0,20 Q225,55 450,20 T900,20 L900,60 L0,60 Z" fill="url(#footerGrad)" />
-</svg>
 
 </div>
