@@ -1,6 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:6c5ce7&height=230&section=header&text=Fernando%20Santos%20%7C%20Fercho.dev&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Software%20Developer%20%E2%80%A2%20.NET%20Backend%20%26%20Full-Stack&descAlignY=58&descSize=18" width="100%" alt="Fernando Santos | Fercho.dev Banner" />
+<!-- HEADER BANNER ROBUSTO -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 190" width="100%" height="190">
+  <defs>
+    <linearGradient id="cyberGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f0c29" />
+      <stop offset="50%" stop-color="#302b63" />
+      <stop offset="100%" stop-color="#6c5ce7" />
+    </linearGradient>
+  </defs>
+  <rect width="900" height="190" rx="16" fill="url(#cyberGrad)" />
+  <path d="M0,140 Q225,180 450,140 T900,140 L900,190 L0,190 Z" fill="#6c5ce7" opacity="0.25" />
+  <text x="50%" y="42%" text-anchor="middle" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="800" font-size="34" letter-spacing="1.5">Fernando Santos | Fercho.dev</text>
+  <text x="50%" y="64%" text-anchor="middle" fill="#A29BFE" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="500" font-size="17" letter-spacing="0.8">Junior Software Developer • .NET Backend &amp; Full-Stack</text>
+  <text x="50%" y="82%" text-anchor="middle" fill="#81ecec" font-family="monospace" font-size="13">Clean Architecture • Scalable APIs • High Performance</text>
+</svg>
+
+<br/>
 
 <a href="https://github.com/FerSp29">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A29BFE&center=true&vCenter=true&width=600&lines=Backend+.NET+Developer;Clean+Architecture+Enthusiast;Building+scalable+solutions" alt="Typing SVG" />
@@ -159,6 +175,16 @@
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c5ce7,50:302b63,100:0f0c29&height=110&section=footer" width="100%" alt="Footer Banner" />
+<!-- FOOTER ROBUSTO -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 60" width="100%" height="60">
+  <defs>
+    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6c5ce7" />
+      <stop offset="50%" stop-color="#302b63" />
+      <stop offset="100%" stop-color="#0f0c29" />
+    </linearGradient>
+  </defs>
+  <path d="M0,20 Q225,55 450,20 T900,20 L900,60 L0,60 Z" fill="url(#footerGrad)" />
+</svg>
 
 </div>
