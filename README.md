@@ -1,17 +1,13 @@
-```markdown
 <div align="center">
 
-<!-- HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:6c5ce7&height=230&section=header&text=Fernando%20Santos%20%7C%20Fercho.dev&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Software%20Developer%20%E2%80%A2%20.NET%20Backend%20%26%20Full-Stack&descAlignY=58&descSize=18" width="100%" alt="Fernando Santos | Fercho.dev Banner" />
 
-<!-- TYPING SVG -->
 <a href="https://github.com/FerSp29">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A29BFE&center=true&vCenter=true&width=600&lines=Backend+.NET+Developer;Clean+Architecture+Enthusiast;Building+scalable+solutions" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- CONTACT & PROFILE BADGES -->
 <p align="center">
   <a href="https://linkedin.com/in/fsantosp29" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -31,18 +27,16 @@
 
 ## ⚡ Acerca de mí
 
-```csharp
-public sealed class DeveloperProfile
+<pre lang="csharp"><code>public sealed class DeveloperProfile
 {
-    public string Name       => "Fernando Santos (Fercho.dev)";
-    public string Role       => "Junior Software Developer (.NET / Backend & Full-Stack)";
-    public string Location   => "Barranquilla, Colombia 🇨🇴";
-    public string[] Focus    => ["Clean Architecture", "Scalable REST APIs", "Performance", "SOLID & Clean Code"];
-}
-```
+    public string Name     => "Fernando Santos (Fercho.dev)";
+    public string Role     => "Junior Software Developer (.NET / Backend & Full-Stack)";
+    public string Location => "Barranquilla, Colombia 🇨🇴";
+    public string[] Focus  => ["Clean Architecture", "Scalable REST APIs", "Performance", "SOLID & Clean Code"];
+}</code></pre>
 
 - 🏗️ **Enfoque arquitectónico:** Diseño y construcción de sistemas desacoplados, mantenibles y testeables aplicando **Clean Architecture**, principios **SOLID** y patrones de diseño modernos.
-- 🚀 **Especialización Backend:** Desarrollo de **APIs RESTful escalables** y seguras con el ecosistema **.NET**, optimizando consultas de datos con **EF Core / LINQ** y manejo robusto de autenticación con **JWT & Identity**.
+- 🚀 **Especialización Backend:** Desarrollo de **APIs RESTful escalables** y seguras con el ecosistema **.NET**, optimizando persistencia de datos y manejo robusto de autenticación con **JWT & Identity**.
 - 🌐 **Visión Full-Stack:** Integración fluida con interfaces reactivas y tipadas en **React + TypeScript**, cuidando tanto la experiencia de usuario como el rendimiento del servidor.
 - 📈 **Mentalidad de ingeniería:** Comprometido con las buenas prácticas de código, contenedores con **Docker**, control de versiones estructurado y aprendizaje continuo en entornos **Linux**.
 
@@ -55,8 +49,7 @@ public sealed class DeveloperProfile
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
-  <img src="https://img.shields.io/badge/EF%20Core-68217A?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
-  <img src="https://img.shields.io/badge/LINQ-302B63?style=for-the-badge&logo=dotnet&logoColor=A29BFE" alt="LINQ" />
+  <img src="https://img.shields.io/badge/RESTful%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="RESTful APIs" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
 </p>
 
@@ -105,11 +98,11 @@ public sealed class DeveloperProfile
         Plataforma empresarial Full-Stack diseñada bajo <b>Clean Architecture</b>. Implementa una API REST escalable con separación estricta de responsabilidades, persistencia relacional optimizada y cliente web moderno tipado.
       </td>
       <td>
-        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-        <img src="https://img.shields.io/badge/Clean_Architecture-6C5CE7?style=flat-square" />
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+        <img src="https://img.shields.io/badge/Clean_Architecture-6C5CE7?style=flat-square" alt="Clean Architecture" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       </td>
     </tr>
     <tr>
@@ -117,13 +110,12 @@ public sealed class DeveloperProfile
         <b>🎬 <a href="https://github.com/FerSp29/FrameRent">FrameRent</a></b>
       </td>
       <td>
-        Sistema de gestión y alquiler desarrollado sobre <b>.NET 10 MVC</b>. Integra control de acceso basado en roles y autenticación segura con <b>ASP.NET Core Identity</b> y acceso a datos mediante <b>EF Core</b>.
+        Sistema de gestión y alquiler desarrollado sobre <b>.NET 10 MVC</b>. Integra control de acceso basado en roles y autenticación segura con <b>ASP.NET Core Identity</b>.
       </td>
       <td>
         <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
         <img src="https://img.shields.io/badge/.NET_10_MVC-5C2D91?style=flat-square&logo=dotnet&logoColor=white" />
         <img src="https://img.shields.io/badge/Identity-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
-        <img src="https://img.shields.io/badge/EF_Core-68217A?style=flat-square&logo=dotnet&logoColor=white" />
       </td>
     </tr>
     <tr>
@@ -134,10 +126,10 @@ public sealed class DeveloperProfile
         <b>.NET Web API</b> modular estructurada con <b>Clean Architecture</b>. Incluye generación automatizada de reportes corporativos en Excel y documentos PDF de alto rendimiento en servidor.
       </td>
       <td>
-        <img src="https://img.shields.io/badge/.NET_Web_API-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-        <img src="https://img.shields.io/badge/Clean_Architecture-6C5CE7?style=flat-square" />
-        <img src="https://img.shields.io/badge/ClosedXML-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-        <img src="https://img.shields.io/badge/QuestPDF-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
+        <img src="https://img.shields.io/badge/.NET_Web_API-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET Web API" />
+        <img src="https://img.shields.io/badge/Clean_Architecture-6C5CE7?style=flat-square" alt="Clean Architecture" />
+        <img src="https://img.shields.io/badge/ClosedXML-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="ClosedXML" />
+        <img src="https://img.shields.io/badge/QuestPDF-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="QuestPDF" />
       </td>
     </tr>
   </tbody>
@@ -158,10 +150,15 @@ public sealed class DeveloperProfile
 
 ### 🤝 ¿Construimos algo escalable juntos?
 
-[![LinkedIn](https://img.shields.io/badge/Conectar_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fsantosp29)
-[![Email](https://img.shields.io/badge/Enviar_Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fsantosp29@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/fsantosp29" target="_blank">
+    <img src="https://img.shields.io/badge/Conectar_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:fsantosp29@gmail.com">
+    <img src="https://img.shields.io/badge/Enviar_Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c5ce7,50:302b63,100:0f0c29&height=110&section=footer" width="100%" alt="Footer Banner" />
 
 </div>
-```
