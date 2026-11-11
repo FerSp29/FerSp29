@@ -1,33 +1,30 @@
 <div align="center">
 
-<!-- BANNER PRINCIPAL CON SEPARADORES -->
-<a href="https://github.com/FerSp29">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=100&lines=Fernando+Santos+%E2%80%94+Fercho.dev" alt="Fernando Santos" />
-</a>
+<!-- BANNER OFICIAL DE MARCA PERSONAL -->
+<img src="./banner.jpg" width="100%" alt="Fernando Santos | Fercho.dev" style="border-radius: 12px;" />
 
-<p align="center">
-  <b>Junior Software Developer</b> &nbsp;|&nbsp; <b>.NET Backend</b> &nbsp;|&nbsp; <b>Full-Stack</b>
-  <br/>
-  <sub>Clean Architecture • Scalable REST APIs • High Performance</sub>
-</p>
+<br/><br/>
 
 <!-- ANIMACIÓN TYPING -->
 <a href="https://github.com/FerSp29">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=A29BFE&center=true&vCenter=true&width=600&height=50&lines=%E2%9A%A1+Backend+.NET+Developer;%F0%9F%8F%97%EF%B8%8F+Clean+Architecture+Enthusiast;%F0%9F%9A%80+Building+scalable+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=A29BFE&center=true&vCenter=true&width=600&height=45&lines=%E2%9A%A1+Backend+.NET+Developer;%F0%9F%8F%97%EF%B8%8F+Clean+Architecture+Enthusiast;%F0%9F%9A%80+Transformando+ideas+en+c%C3%B3digo+eficiente" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- BADGES DE CONTACTO -->
+<!-- BADGES PRINCIPALES Y CONTACTO -->
 <p align="center">
+  <a href="https://us.wps.com/cms/docs/d/cbNaqdymwnhu0MBc?lg=en-US&sa=601.1074&ps=0&fn=Fernando%20Alonso%20Santos%20%20Puentes%20CV.pdf&refer=whatsapp" target="_blank">
+    <img src="https://img.shields.io/badge/Ver_CV_(PDF)-6C5CE7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV" />
+  </a>
   <a href="https://linkedin.com/in/fsantosp29" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://wa.me/573017140033" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
   <a href="mailto:fsantosp29@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/FerSp29">
-    <img src="https://img.shields.io/badge/Barranquilla%2C%20CO-1E1E2E?style=for-the-badge&logo=googlemaps&logoColor=A29BFE" alt="Location" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=FerSp29&label=PROFILE+VIEWS&color=6c5ce7&style=for-the-badge" alt="Profile Views" />
 </p>
@@ -142,6 +139,18 @@
 
 ---
 
+## 🐍 Contribuciones
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FerSp29/FerSp29/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FerSp29/FerSp29/output/github-snake.svg" />
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/FerSp29/FerSp29/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+---
+
 <div align="center">
 
 ### 🤝 ¿Construimos algo escalable juntos?
@@ -149,6 +158,9 @@
 <p align="center">
   <a href="https://linkedin.com/in/fsantosp29" target="_blank">
     <img src="https://img.shields.io/badge/Conectar_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/573017140033" target="_blank">
+    <img src="https://img.shields.io/badge/Chat_en_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="mailto:fsantosp29@gmail.com">
     <img src="https://img.shields.io/badge/Enviar_Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
