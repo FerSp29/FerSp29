@@ -142,15 +142,6 @@
 
 ---
 
-## 📊 Métricas & Actividad en GitHub
-
-<div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerSp29&layout=compact&langs_count=6&hide=html,css&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a29bfe&text_color=e2e8f0" alt="Top Languages" />
-  <img height="175em" src="https://streak-stats.demolab.com?user=FerSp29&theme=tokyonight&hide_border=true&background=0F0C29&ring=6C5CE7&fire=A29BFE&currStreakLabel=A29BFE&sideLabels=E2E8F0" alt="GitHub Streak" />
-</div>
-
----
-
 <div align="center">
 
 ### 🤝 ¿Construimos algo escalable juntos?
